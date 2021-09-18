@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchCase", "switchCase\sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forDongusu", "forDongusu\forDongusu.csproj", "{700A35BA-D9E0-4169-87F8-1159E111B5DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while-foreach", "while-froeach\while-foreach.csproj", "{A3AB3740-09E9-4180-A6BE-39A937DBB5AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{700A35BA-D9E0-4169-87F8-1159E111B5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{700A35BA-D9E0-4169-87F8-1159E111B5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{700A35BA-D9E0-4169-87F8-1159E111B5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AB3740-09E9-4180-A6BE-39A937DBB5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AB3740-09E9-4180-A6BE-39A937DBB5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AB3740-09E9-4180-A6BE-39A937DBB5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AB3740-09E9-4180-A6BE-39A937DBB5AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

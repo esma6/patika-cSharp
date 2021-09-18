@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryCatch", "tryCatch\tryCat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if-else", "if-else\if-else.csproj", "{12272D1B-DEC2-459C-BE92-3C4284314BC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchCase", "switchCase\switchCase.csproj", "{60E735F5-53A8-45F6-8B2D-A6D16190CF0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{12272D1B-DEC2-459C-BE92-3C4284314BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12272D1B-DEC2-459C-BE92-3C4284314BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12272D1B-DEC2-459C-BE92-3C4284314BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E735F5-53A8-45F6-8B2D-A6D16190CF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E735F5-53A8-45F6-8B2D-A6D16190CF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E735F5-53A8-45F6-8B2D-A6D16190CF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E735F5-53A8-45F6-8B2D-A6D16190CF0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

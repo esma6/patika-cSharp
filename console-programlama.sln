@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipDonusumleri", "tipDonusu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryCatch", "tryCatch\tryCatch.csproj", "{B8D1E963-70A7-4D05-8087-FF405794CA78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if-else", "if-else\if-else.csproj", "{12272D1B-DEC2-459C-BE92-3C4284314BC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B8D1E963-70A7-4D05-8087-FF405794CA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D1E963-70A7-4D05-8087-FF405794CA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D1E963-70A7-4D05-8087-FF405794CA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12272D1B-DEC2-459C-BE92-3C4284314BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12272D1B-DEC2-459C-BE92-3C4284314BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12272D1B-DEC2-459C-BE92-3C4284314BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12272D1B-DEC2-459C-BE92-3C4284314BC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

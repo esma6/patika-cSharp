@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySinifiMethodlari", "Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotTanımlama", "metotTanımlama\metotTanımlama.csproj", "{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotOverloading", "metotOverloading\metotOverloading.csproj", "{92E15FD7-E3CD-4284-B5CB-B5B3D627AB6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E15FD7-E3CD-4284-B5CB-B5B3D627AB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E15FD7-E3CD-4284-B5CB-B5B3D627AB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E15FD7-E3CD-4284-B5CB-B5B3D627AB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E15FD7-E3CD-4284-B5CB-B5B3D627AB6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

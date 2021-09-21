@@ -12,18 +12,19 @@ namespace metotTanımlama
             //}
 
             //ref
+            Program instance = new Program();
             int x = 3;
             int y = 4;
-            int sonuc = ArttırVeTopla(ref x, ref y);
+            int sonuc = instance.ArttırVeTopla(ref x, ref y);
             Console.WriteLine(sonuc);
 
-            int ArttırVeTopla(ref int x, ref int y)
-            {
-                x += 1;
-                y += y;
-                return (x + y);
-            }
-            
+         
+        }
+        public int ArttırVeTopla(ref int x, ref int y)
+        {
+            x += 1;
+            y += y;
+            return (x + y);
         }
     }
 }

@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySinifiMethodlari", "ArraySinifiMethodlari\ArraySinifiMethodlari.csproj", "{D69F1820-94B5-4FFE-9059-152FA14FB6DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotTanımlama", "metotTanımlama\metotTanımlama.csproj", "{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{D69F1820-94B5-4FFE-9059-152FA14FB6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69F1820-94B5-4FFE-9059-152FA14FB6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69F1820-94B5-4FFE-9059-152FA14FB6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9E68DB-F11A-484E-B3CC-3250EDE19E7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
